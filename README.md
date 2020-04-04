@@ -1,5 +1,5 @@
 # The Data Science and Machine Learning Resourch Sheet (TDSMLRS)
-# One sheet to rule them all!
+# One sheet to rule them all! - https://bit.ly/tdsmlrs
 ![TDSMLRS sheet](https://i.imgur.com/dUUEsbf.png)
 With the explosive amount of information about Data Science, it has become hard to know where to start and what to trust.
 Yet we all know that one senior person who seems to always have a link for a subject. This sheet aims to be the sum of all these persons.
